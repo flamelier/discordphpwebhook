@@ -7,11 +7,14 @@ Open chanel preferences (if you have enough permissions):
 
 ![image](https://media.discordapp.net/attachments/885320186406797332/900511286071287868/unknown.png)
 
-Click on integrations:
+Click on Integrations:
 ![image](https://user-images.githubusercontent.com/34852960/138181612-4759f7b7-73f5-428d-b303-0745b3f79e9a.png)
 
-Create Webhook:
+Click New Webhook:
 ![image](https://media.discordapp.net/attachments/885320186406797332/900511584357601340/unknown.png)
+
+Fill out webhook name and make sure the correct channel is selected, and then click Copy Webhook URL:
+![image](https://media.discordapp.net/attachments/885320186406797332/900512243836403722/unknown.png)
 
 --------------------------------------------------------------------------------
 BSD 3-Clause License
