@@ -1,6 +1,10 @@
 # discordphpwebhook
 Discord PHP Webhook, send an HTML form via PHP to a Discord webhook!
 
+## I NEED HELP WITH XYZ????
+Please join this Discord server https://discord.gg/v7sJyMHfY7 and ask in #github-help for help. Please ping me with the github repo name(discordphpwebhook) and the issue you are having. Example: 
+![image](https://media.discordapp.net/attachments/885320186406797332/900513519651409981/unknown.png)
+
 ## How to get Webhook link
 
 Open chanel preferences (if you have enough permissions):
@@ -17,6 +21,8 @@ Fill out webhook name and make sure the correct channel is selected, and then cl
 ![image](https://media.discordapp.net/attachments/885320186406797332/900512243836403722/unknown.png)
 
 --------------------------------------------------------------------------------
+## Licensing information.
+
 BSD 3-Clause License
 
 Copyright (c) 2021, Flamelier
