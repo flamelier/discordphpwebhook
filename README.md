@@ -4,6 +4,7 @@ Discord PHP Webhook, send an HTML form via PHP to a Discord webhook!
 ## How to get Webhook link
 
 Open chanel preferences (if you have enough permissions):
+
 ![image](https://media.discordapp.net/attachments/885320186406797332/900511286071287868/unknown.png)
 
 Click on integrations:
